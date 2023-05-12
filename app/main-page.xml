@@ -1,0 +1,7 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:ui="plugins/custom-button" navigatingTo="navigatingTo">
+  <ActionBar title="Custom Button App" />
+
+    <GridLayout>
+        <ui:CustomButton text="" width="200" height="36" />
+    </GridLayout>
+</Page>
